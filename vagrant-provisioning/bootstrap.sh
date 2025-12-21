@@ -8,7 +8,7 @@
 
 set -euo pipefail
 
-K8S_VERSION="1.31"
+K8S_VERSION="1.35"
 ROOT_PASSWORD="kubeadmin"
 
 echo "[TASK 1] Disable and turn off SWAP"
